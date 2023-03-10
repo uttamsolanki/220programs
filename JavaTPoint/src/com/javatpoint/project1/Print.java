@@ -1,10 +1,9 @@
 package com.javatpoint.project1;
 
-public class printRunner {
+public class Print {
 
 	public static void print() {
-		Print.print();
-		// fkjhgkhfjkhfg
+		System.out.println("Hi There!");
 	}
 
 }
